@@ -2,7 +2,7 @@
 
 A instant chat app to embrace meme culture.
 
-![alt tag](https://github.com/xxdd13/OverClock/blob/master/2.gif)
+![alt tag](https://github.com/xxdd13/IOS---MemeChat/blob/master/2.gif)
 
 ## Language
 - Swift
